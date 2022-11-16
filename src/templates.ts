@@ -10,6 +10,11 @@ export const templates = [
     description: 'Next.js wagmi project with ConnectKit included',
   },
   {
+    name: 'next-with-dynamic',
+    title: 'Next.js + Dynamic',
+    description: 'Next.js wagmi project with Dynamic included',
+  },
+  {
     name: 'next-with-rainbowkit',
     title: 'Next.js + RainbowKit',
     description: 'Next.js wagmi project with RainbowKit included',
